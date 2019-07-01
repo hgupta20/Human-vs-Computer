@@ -1,5 +1,6 @@
-## Human-vs-Computer
-Welcome to the 0/1 guessing game!                                  
+# Human-vs-Computer
+## Try to outsmart the computer
+### Welcome to the 0/1 guessing game!                                  
                                                                    
 Enter 0 or 1, trying to outsmart the computer, which is going to   
 attempt to forecast your guesses.  On each move the score indicator
@@ -13,3 +14,4 @@ Good luck, you'll need it!
 
 Computer          Human  
 x---------x+++++++++x  
+          
